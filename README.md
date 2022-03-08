@@ -15,5 +15,5 @@ http://localhost:8080/codes/qr/zxing/HELLOWORLD
 or you can post your own text (as a path variable)
 
 **********************************************************************************
-I used Java 8 and Spring Boot
-To test, you can use PostMan or a browser.
+I used Java 8 and Spring Boot. 
+You can use PostMan or a browser to test.
